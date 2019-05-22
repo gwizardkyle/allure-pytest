@@ -1,0 +1,249 @@
+[DEBUG 2018-08-31 22:11:43]cookies: {'PPY_AFFSESSID1': 's%3AYC2YCWP7JzDtDheX3QBkhlPA.vCFjK9XxSVlq5ZmAZEJyGW15bLG47i31aKG%2FSwBuORE'}
+[INFO 2019-05-17 16:42:29]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-17 16:42:29]执行用例集为：--allure_features=Home,Personal
+[ERROR 2019-05-17 16:42:32]邮件发送失败，请检查邮件配置
+[ERROR 2019-05-17 16:42:32]发送邮件失败，请检查邮件配置
+[INFO 2019-05-17 16:51:31]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-17 16:51:31]执行用例集为：--allure_features=Home,Personal
+[ERROR 2019-05-17 16:51:33]邮件发送失败，请检查邮件配置
+[ERROR 2019-05-17 16:51:33]发送邮件失败，请检查邮件配置
+[INFO 2019-05-17 16:51:57]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-17 16:51:57]执行用例集为：--allure_features=Home,Personal
+[ERROR 2019-05-17 16:51:59]邮件发送失败，请检查邮件配置
+[ERROR 2019-05-17 16:51:59]发送邮件失败，请检查邮件配置
+[INFO 2019-05-17 16:52:11]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-17 16:52:11]执行用例集为：--allure_features=Home,Personal
+[ERROR 2019-05-17 16:52:13]邮件发送失败，请检查邮件配置
+[ERROR 2019-05-17 16:52:13]发送邮件失败，请检查邮件配置
+[INFO 2019-05-17 16:56:15]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-17 16:56:15]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-17 17:03:49]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-17 17:07:37]执行用例集为：--allure_features=Home,Personal
+[ERROR 2019-05-17 17:10:14]邮件发送失败，请检查邮件配置
+[ERROR 2019-05-17 17:10:30]发送邮件失败，请检查邮件配置
+[INFO 2019-05-17 17:25:27]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-17 17:25:27]执行用例集为：--allure_features=Home,Personal
+[ERROR 2019-05-17 17:25:29]邮件发送失败，请检查邮件配置
+[ERROR 2019-05-17 17:25:29]发送邮件失败，请检查邮件配置
+[INFO 2019-05-17 17:26:57]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-17 17:26:57]执行用例集为：--allure_features=Home,Personal
+[ERROR 2019-05-17 17:26:59]邮件发送失败，请检查邮件配置
+[ERROR 2019-05-17 17:26:59]发送邮件失败，请检查邮件配置
+[INFO 2019-05-17 17:28:03]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-17 17:28:03]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-17 17:28:32]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-17 17:39:56]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-17 17:39:56]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-17 17:43:50]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-17 17:43:50]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-17 17:45:33]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-17 17:45:33]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-17 17:46:41]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-17 17:46:41]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-17 17:47:18]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-17 17:47:18]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-17 17:49:22]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-17 17:49:22]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-17 17:53:07]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-17 17:53:07]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-17 18:00:46]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-17 18:00:46]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-20 09:51:58]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-20 09:51:58]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-20 19:28:57]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-20 19:28:57]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-20 19:31:06]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-20 19:31:06]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-20 19:50:29]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-20 19:50:29]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-21 09:22:19]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-21 09:22:19]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-21 09:27:55]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-21 09:27:55]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-21 09:47:14]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-21 09:47:14]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-21 09:54:07]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-21 09:54:07]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-21 09:56:16]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-21 09:56:16]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-21 10:12:09]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-21 10:12:09]执行用例集为：--allure_features=Home,Personal
+[ERROR 2019-05-21 10:12:12]邮件发送失败，请检查邮件配置
+[ERROR 2019-05-21 10:12:12]发送邮件失败，请检查邮件配置
+[INFO 2019-05-21 10:14:52]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-21 10:14:52]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-21 10:16:46]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-21 10:16:46]执行用例集为：--allure_features=Home,Personal
+[ERROR 2019-05-21 10:16:48]邮件发送失败，请检查邮件配置
+[ERROR 2019-05-21 10:16:48]发送邮件失败，请检查邮件配置
+[INFO 2019-05-21 10:31:07]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-21 10:31:07]执行用例集为：--allure_features=Home,Personal
+[ERROR 2019-05-21 10:31:09]邮件发送失败，请检查邮件配置
+[ERROR 2019-05-21 10:31:09]发送邮件失败，请检查邮件配置
+[INFO 2019-05-21 10:39:31]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 10:41:08]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 10:46:39]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 10:47:18]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 10:48:09]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 10:50:52]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 10:51:22]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 10:52:26]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:04:15]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:04:15]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:04:15]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:04:15]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Login.yaml
+[INFO 2019-05-21 11:06:15]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:06:15]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:06:15]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:06:15]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Login.yaml
+[INFO 2019-05-21 11:06:38]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:06:38]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:06:38]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:06:38]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Login.yaml
+[INFO 2019-05-21 11:07:09]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:07:09]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:07:09]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:07:09]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Login.yaml
+[INFO 2019-05-21 11:07:44]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:07:44]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:07:44]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:07:44]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Login.yaml
+[INFO 2019-05-21 11:10:12]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:10:12]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:10:12]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:10:12]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Login.yaml
+[INFO 2019-05-21 11:11:21]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:11:21]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:11:21]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:11:50]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:11:50]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:11:50]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:12:16]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:12:16]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:12:16]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:14:57]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-21 11:14:57]执行用例集为：--allure_features=Home,Personal
+[ERROR 2019-05-21 11:15:00]邮件发送失败，请检查邮件配置
+[ERROR 2019-05-21 11:15:00]发送邮件失败，请检查邮件配置
+[INFO 2019-05-21 11:19:01]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:19:01]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:19:01]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:28:38]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:28:38]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:28:38]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:28:51]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:28:51]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:28:51]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:29:20]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:29:20]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:29:20]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:29:43]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:29:43]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:29:43]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:30:30]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:30:30]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:30:31]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:32:35]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:32:35]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:32:35]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:34:44]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:34:44]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:34:44]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:35:40]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:35:40]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:35:40]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:36:00]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:36:00]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:36:00]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:36:52]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:36:52]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:36:52]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:37:28]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:37:28]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:37:28]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:40:38]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:40:38]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:40:38]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:45:02]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:45:02]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:45:02]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 11:52:21]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 11:52:21]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 11:52:21]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 16:01:59]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-21 16:01:59]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-21 17:27:20]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-21 17:27:20]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-21 17:29:44]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-21 17:29:44]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-21 17:32:00]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-21 17:32:00]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-21 17:44:49]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-21 17:44:49]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-21 17:56:12]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-21 17:56:12]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-21 17:56:28]初始化配置文件, path=D:\user\80004134\desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-05-21 17:56:28]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-21 18:16:02]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 18:16:02]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 18:16:02]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 18:16:17]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 18:16:17]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 18:16:17]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 18:19:50]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 18:19:50]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 18:19:50]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 18:25:09]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 18:25:09]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 18:25:09]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 18:29:54]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 18:29:54]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 18:29:54]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 18:33:04]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 18:33:04]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 18:33:04]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 18:33:35]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 18:33:35]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 18:33:35]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 18:37:08]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 18:37:08]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 18:37:08]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 19:29:24]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 19:29:25]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 19:29:25]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 19:40:28]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 19:40:28]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 19:40:28]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 19:44:46]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 19:44:46]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 19:44:46]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 19:45:09]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 19:45:09]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 19:45:10]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 19:46:40]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 19:46:40]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 19:46:40]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 19:48:49]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 19:48:49]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 19:48:49]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 19:49:18]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 19:49:18]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 19:49:18]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 19:52:12]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 19:52:12]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 19:52:12]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-21 19:52:31]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-21 19:52:31]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-21 19:52:31]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-22 16:47:59]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-22 16:47:59]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-22 16:47:59]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-22 17:03:48]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-22 17:03:48]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-22 17:03:48]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-22 17:04:50]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-22 17:04:50]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-22 17:04:50]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2019-05-22 17:05:41]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2019-05-22 17:05:41]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2019-05-22 17:05:41]解析yaml, Path:D:\user\80004134\desktop\API_Automation-master/Params/Yaml/Personal.yaml
